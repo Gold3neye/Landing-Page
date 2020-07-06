@@ -1,3 +1,3 @@
 # Vogsphere
 
-http://google.vogsphere.fr/Vogsphere/
+https://gold3neye.github.io/Vogsphere/
